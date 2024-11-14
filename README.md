@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola, soy Juan Ignacio Akrich Vazquez 👋
+
+# Desarrollador de aplicaciones web 
 
 <!--
 **Ignacio-Akrich/Ignacio-Akrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
