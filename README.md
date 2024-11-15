@@ -3,7 +3,8 @@
 # Desarrollador de aplicaciones web 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ignacio-Akrich&show_icons=true&theme=dark&count_private=true&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Akric&layout=compact&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Akric&layout=compact&theme=dark&count_private=true&show_icons=true)](https://github.com/Ignacio-Akrich/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Akrich&theme=dark)](https://github.com/Ignacio-Akrich/github-readme-stats)
 
 <!--
 **Ignacio-Akrich/Ignacio-Akrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
